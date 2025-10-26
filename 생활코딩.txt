@@ -1,0 +1,20 @@
+생활코딩
+HTML&INTERNET 
+우리는 웹 페이지를 만드는 코드 HTML이라는 언어를 배운다 쉬운 언어 제일 기본적인 언어이다
+웹 브라우저랑 EDITOR가 필요하다 메모장 VISUAL STUDIO COD 
+best web development editor 문법은 TAG와 관련되어있어
+공부를 했을때 난이도와 중요도는 반비례하는 느낌이있다. 중요할수록 난이도가 낮아야 진입하여 
+활용할 수 있기 때문이다.
+teg 유용한 사이트 https://www.advancedwebranking.com/html/
+html new line tag 
+html paragraph tag 
+ unsplash
+이미지 파일사이트
+이미지 파일을 attribute라고 하고 순서는 상관없다
+html specification 사용설명서 주소
+세계 최초 web 사이트 info.cern.ch
+
+웹사이트 호스트 사이트 github.com
+댓글 사이트=livere.com/disqus.com 구글 inseok96322@gmail.com
+채팅 사이트 tawk.to island322 dlstjr123!
+웹사이트 방문자 분석 사이트 analytics.google.com
